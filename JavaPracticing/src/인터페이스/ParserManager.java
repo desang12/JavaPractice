@@ -1,4 +1,4 @@
-package interfacePrac.Parseable;
+package 인터페이스;
 
 public class ParserManager {
 	public static Parseable getParser(String type){

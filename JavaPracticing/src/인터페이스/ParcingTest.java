@@ -1,4 +1,4 @@
-package interfacePrac.Parseable;
+package 인터페이스;
 
 public class ParcingTest {
 	public static void main(String [] args) {
